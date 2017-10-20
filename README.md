@@ -1,0 +1,2 @@
+# C-determinant-practice
+determinant
