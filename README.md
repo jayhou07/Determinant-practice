@@ -5,4 +5,4 @@ This programme will include :
 
   * algebraic complement
   * the multiply of determinant
-  * the value of determinant
+  * the value of determinant
